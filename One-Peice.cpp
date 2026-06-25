@@ -9,7 +9,7 @@ int main(){
     string input;
 
     while(true){
-        cout<<"Enma-Shell>";
+        cout<<"One-Peice>";
         getline(cin,input);
         if(input=="exit")break;
         //Split input into tokens (Break the input string into words to use it as commands)
